@@ -9,7 +9,6 @@ const mockedTags: Tag[] = [
 	{ id: '1', name: 'Тег 1' },
 	{ id: '2', name: 'Тег 2' },
 	{ id: '3', name: 'Тег 3' },
-
 ];
 
 export default function CreateEventForm() {
